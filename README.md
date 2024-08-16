@@ -1,16 +1,15 @@
-## Hi there 👋
+# Links to main projects
 
-<!--
-**SaltyNickel702/SaltyNickel702** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Web Util Tools
+  - Custom Libraries that I used to use until I found a better way of doing it.
+  - [main Page](saltynickel702.github.io/util/)
+  - [GitHub Repo](https://github.com/SaltyNickel702/util)
+- School Projects
+  - My high school projects repo
+  - [Main Page](saltynickel702.github.io/school/)
+  - [GitHub Repo](https://github.com/SaltyNickel702/school)
+- CMD Node JS projects
+  - allows me to type "open [app name]"
+  - [GitHub repo](https://github.com/SaltyNickel702/cmdNodeJS)
+  - Apps include:
+    - calculator
